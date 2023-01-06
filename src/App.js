@@ -9,7 +9,7 @@ const App = () => {
       <div className="">
         <Navbar />
       </div>
-      <div className="w-full">
+      <div className="w-full flex flex-col justify-around">
         <Intro />
         <Card />
       </div>

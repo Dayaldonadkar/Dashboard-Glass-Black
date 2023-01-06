@@ -2,8 +2,8 @@ import React from "react";
 
 const Intro = () => {
   return (
-    <div className="flex justify-center h-1/4">
-      <div className="flex justify-between items-center w-11/12">
+    <div className="flex justify-center">
+      <div className="flex justify-between items-center w-10/12">
         <div className="flex text-white text-4xl items-end">
           <img src="./images/intro.png" alt="" />
           <span className=" font-bold">Hola,</span>
